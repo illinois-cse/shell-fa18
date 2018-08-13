@@ -1,6 +1,5 @@
 ---
 layout: reference
-permalink: /reference/
 ---
 
 ## Summary of Basic Commands
